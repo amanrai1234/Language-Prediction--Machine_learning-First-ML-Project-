@@ -1,4 +1,4 @@
-# Project-1-Languages
+# Machine Learning Project 1
 
 ## Some ML Concepts
 
