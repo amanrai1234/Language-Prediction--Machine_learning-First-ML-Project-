@@ -1,5 +1,7 @@
 # Machine Learning Project 1
 
+### This is my first ML project so bear with me
+
 ## Some ML Concepts
 
 confusion matrix with respect to Machine 
