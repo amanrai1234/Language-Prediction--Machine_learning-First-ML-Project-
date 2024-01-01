@@ -1,4 +1,4 @@
-# Machine Learning Project 1
+# Machine Learning 
 
 ### This is my first ML project so bear with me
 
