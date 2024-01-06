@@ -1,6 +1,6 @@
 # Machine Learning 
 
-### This is my first ML project so bear with me
+### This is my first ML project so bear with me (This is me before coding in python and I knew only C/C++)
 
 ## Some ML Concepts
 
